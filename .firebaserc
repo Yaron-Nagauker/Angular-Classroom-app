@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "classroom-project-96ea0": {
+      "hosting": {
+        "classroom-project": [
+          "classroom-project-96ea0"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "classroom-project-96ea0"
+  }
+}
